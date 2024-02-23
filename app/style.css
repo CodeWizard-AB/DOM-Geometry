@@ -1185,6 +1185,11 @@ html {
   margin-bottom: 2rem;
 }
 
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
 .mt-3 {
   margin-top: 0.75rem;
 }
@@ -1205,6 +1210,10 @@ html {
   margin-bottom: 0.25rem;
 }
 
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .flex {
   display: flex;
 }
@@ -1223,6 +1232,14 @@ html {
 
 .max-h-\[151px\] {
   max-height: 151px;
+}
+
+.max-h-48 {
+  max-height: 12rem;
+}
+
+.max-h-44 {
+  max-height: 11rem;
 }
 
 .min-h-48 {
